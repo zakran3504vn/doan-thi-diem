@@ -297,7 +297,7 @@
             <div class="olympia-number-left olympia-number-left-pc text-left show-on-scroll home-page"
                 id="olympia-number">
                 <h1 class="olympia-number-title font-garamond-bold color-21" style="margin-bottom: 20px">Trường phổ
-                    thông liên cấp song ngữ Olympia Long aptis</h1>
+                    thông liên cấp song ngữ Olympia Long aptis - Vuong erp</h1>
                 <p class="olympia-number-content font-avenir-regular size-14 color-3a">Không chỉ tiên phong trong xây
                     dựng và đổi mới chương trình giáo dục theo định hướng phát triển năng lực tại Việt Nam, Olympia tự
                     hào là đơn vị dẫn đầu trong tiếp cận và vận dụng các nội dung, phương pháp giáo dục hiện đại của thế
