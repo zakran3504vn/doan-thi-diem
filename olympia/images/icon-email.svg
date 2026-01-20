@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="17px" viewBox="0 0 24 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile_00_MENU-step-2" transform="translate(-40.000000, -629.000000)">
+            <rect id="Rectangle-Copy-35" fill="#471873" x="0" y="40" width="375" height="627"></rect>
+            <g id="Group-4" transform="translate(0.000000, 607.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="375" height="60"></rect>
+                <path d="M40,22 L40,39 L64,39 L64,22 L40,22 Z M60.8645102,23.6887417 L52,31.8390033 L43.1354898,23.6887417 L60.8645102,23.6887417 Z M41.8367347,24.882851 L47.9461429,30.5 L41.8367347,36.117149 L41.8367347,24.882851 Z M43.1354898,37.3112583 L49.244898,31.6941093 L52,34.2272219 L54.755102,31.6941093 L60.8645102,37.3112583 L43.1354898,37.3112583 Z M62.1632653,36.117149 L56.0538571,30.5 L62.1632653,24.882851 L62.1632653,36.117149 Z" id="Shape" fill="#8A8A8A" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

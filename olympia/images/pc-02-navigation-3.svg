@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="49px" viewBox="0 0 52 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>pc-02-navigation 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02_ABOUT" transform="translate(-1169.000000, -7916.000000)" stroke="#471873">
+            <g id="pc-02-navigation-3" transform="translate(1169.000000, 7916.000000)">
+                <path d="M1.1,1.1 L1.1,46.1979602 L11.2134804,36.9 L50.9,36.9 L50.9,1.1 L1.1,1.1 Z" id="Rectangle" stroke-width="2.2"></path>
+                <rect id="Rectangle" stroke-width="0.4" fill="#471873" x="25.5917969" y="25.4033203" width="1.81640625" height="1.81640625"></rect>
+                <path d="M26.5,11.7802734 C23.996084,11.7802734 21.9589844,13.817373 21.9589844,16.3212891 L23.7753906,16.3212891 C23.7753906,14.8189395 24.9976504,13.5966797 26.5,13.5966797 C28.0023496,13.5966797 29.2246094,14.8189395 29.2246094,16.3212891 C29.2246094,16.992209 28.9781836,17.6370937 28.5303184,18.1373926 L25.5917969,21.4236348 L25.5917969,23.5869141 L27.4082031,23.5869141 L27.4082031,22.1173809 L29.8840859,19.3485723 C30.6301445,18.5149023 31.0410156,17.4398926 31.0410156,16.3212891 C31.0410156,13.817373 29.003916,11.7802734 26.5,11.7802734 Z" id="Path" stroke-width="0.4" fill="#471873"></path>
+            </g>
+        </g>
+    </g>
+</svg>
