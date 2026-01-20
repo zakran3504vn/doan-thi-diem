@@ -24,7 +24,7 @@
                 <div class="header-container-fluid">
                     <div class="header-logo">
                         <a href="index.php">
-                            <img src="./assets/logo/logo.png" alt="Đoàn Thị Điểm">
+                            <img src="../assets/logo/logo.png" alt="Đoàn Thị Điểm">
                         </a>
                     </div>
                     <!--===========HEADER=========-->
@@ -196,11 +196,11 @@
                         <div class="header-info">
                             <ul class="header-info-list">
                                 <li class="info-item"><a href="#" title="" class="search" id="btn-search">
-                                        <img src="olympia/images/pc-header-search.svg" alt=""></a>
+                                        <img src="../olympia/images/pc-header-search.svg" alt=""></a>
                                 </li>
                                 <li class="info-item">
                                     <a href="https://lms.theolympiaschools.edu.vn/" title="Login Canvas" class="account"
-                                        target="_blank"><img src="olympia/images/pc-header-login.svg" alt=""></a>
+                                        target="_blank"><img src="../olympia/images/pc-header-login.svg" alt=""></a>
                                 </li>
                                 <li class="info-item">
                                     <select class="language">

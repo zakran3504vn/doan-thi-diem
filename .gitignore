@@ -4,6 +4,9 @@
 # NPM/Yarn dependencies
 /node_modules/
 
+# Storage folder
+/storage/
+
 # Environment files
 .env
 .env.local
