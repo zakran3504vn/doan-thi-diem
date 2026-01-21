@@ -122,7 +122,7 @@
                                 <a href="index.php" title="" class="menu_link">CUỘC SỐNG HỌC ĐƯỜNG</a>
                                 <ul class="dropdown-content">
                                     <li>
-                                        <a href="./mot-ngay-o-olympia.php">
+                                        <a href="./su-kien.php">
                                             <span>THÔNG BÁO</span>
                                         </a>
                                     </li>
@@ -313,7 +313,7 @@
                                     <div class="mb-menu-sub">
                                         <div class="mb-menu-body">
                                             <ul class="mb-menu-sub-list">
-                                                <li class="mb-sub-item"><a href="mot-ngay-o-olympia.php" title=""
+                                                <li class="mb-sub-item"><a href="su-kien.php" title=""
                                                         class="mb-sub-link">THÔNG BÁO</a></li>
                                                 <li class="mb-sub-item"><a href="dich-vu-xe-dua-don-hoc-sinh.php"
                                                         title="" class="mb-sub-link">LỊCH HOẠT ĐỘNG</a></li>
