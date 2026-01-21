@@ -127,22 +127,22 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./dich-vu-xe-dua-don-hoc-sinh.php">
+                                        <a href="./lo-trinh-hoc-tap.php">
                                             <span>LỊCH HOẠT ĐỘNG</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./dinh-duong-truong-hoc.php">
+                                        <a href="./mot-ngay-o-truong.php">
                                             <span>CÂU CHUYỆN HỌC ĐƯỜNG</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./dong-phuc-va-hoc-pham.php">
+                                        <a href="./dich-vu-xe-dua-don-hoc-sinh.php">
                                             <span>DỊCH VỤ BÁN TRÚ - XE BUÝT</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./dich-vu-y-te.php">
+                                        <a href="./tag/talkshow.php">
                                             <span>THƯ VIỆN ẢNH/VIDEO</span>
                                         </a>
                                     </li>
