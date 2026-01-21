@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="The Olympia Schools">
 <meta property="og:title" content="Liên hệ">
 <meta property="og:description" content="Liên hệ">
-<meta property="og:url" content="lien-he.html">
+<meta property="og:url" content="lien-he.php">
 <meta property="og:type" content="article">
 <meta property="og:image" content="storage/favicon.png">
 <meta name="twitter:title" content="Liên hệ">
@@ -26,8 +26,8 @@
 
 
 
-<link rel="alternate" href="en/contact.html" hreflang="en" />
-    <link rel="alternate" href="lien-he.html" hreflang="vi" />
+<link rel="alternate" href="en/contact.php" hreflang="en" />
+    <link rel="alternate" href="lien-he.php" hreflang="vi" />
 
 
         <link href="../unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
@@ -48,7 +48,7 @@
         <script src="olympia/js/slick.js"></script>
         <script src="../unpkg.com/aos%402.3.1/dist/aos.js"></script>
 
-                    <link rel="alternate" href="en.html" hreflang="en" />
+                    <link rel="alternate" href="en.php" hreflang="en" />
                 <style>
             nav#admin_bar{
                 display: none;
@@ -93,7 +93,7 @@
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
                     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
                 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                '../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+                '../www.googletagmanager.com/gtm5445.php?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-5SS24C7N');</script>
         <!-- End Google Tag Manager -->
 
@@ -112,7 +112,7 @@
     </head>
     <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5SS24C7N"
+    <noscript><iframe src="https://www.googletagmanager.com/ns.php?id=GTM-5SS24C7N"
                       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <script>
@@ -154,7 +154,7 @@
             <div class="container-fluid">
                 <div class="contact-header">
                     <ol class="contact-header-breadcrumb">
-                        <li class="breadcrumb-item color-ab"><a href="index.html" class="color-ab text-uppercase font-avenir-demibold">Trang chủ</a></li>
+                        <li class="breadcrumb-item color-ab"><a href="index.php" class="color-ab text-uppercase font-avenir-demibold">Trang chủ</a></li>
                         <li class="breadcrumb-item color-ab"><a href="#" class="color-ab white text-uppercase font-avenir-demibold">liên hệ</a></li>
                     </ol>
                     <h1 class="contact-title">Liên hệ với chúng tôi</h1>
@@ -224,20 +224,20 @@
                                     </a>
                                 </button>
 
-                                <input type="hidden" name="url" value="lien-he.html">
+                                <input type="hidden" name="url" value="lien-he.php">
                                 <input type="hidden" name="type" value="contact">
                             </div>
                         </form>
                     </div>
                     <div class="contact-info container">
                         <div class="contact-info-button">
-                            <a class="" href="faq.html" target="_blank">
+                            <a class="" href="faq.php" target="_blank">
                                 <button class="btn btn-document bg-f8f0ff color-471873">Câu hỏi thường gặp
                                     <img src="olympia/images/button-1-2.svg" alt="">
                                 </button>
                             </a>
                            
-                            <a href="storage/pdf/brochure-olympia-tanh.pdf" download="" class="item-title download_multiple_file" style="cursor:pointer;">
+                            <a href="#" download="" class="item-title download_multiple_file" style="cursor:pointer;">
                                 <button class="btn btn-document bg-f8f0ff color-471873">
                                     Tải về tài liệu Đoàn Thị Điểm
                                     <img src="olympia/images/button-1-2.svg" alt="">
