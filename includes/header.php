@@ -69,7 +69,7 @@
                                 <a href="./index.php" title="" class="menu_link">TUYỂN SINH</a>
                                 <ul class="dropdown-content">
                                     <li>
-                                        <a href="./lien-he.php" target="_blank">
+                                        <a href="./tuyen-dung.php">
                                             <span>THÔNG BÁO TUYỂN SINH</span>
                                         </a>
                                     </li>
@@ -80,12 +80,12 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./nhaphoc.php" target="_blank">
+                                        <a href="./tieu-bieu.php">
                                             <span>TẠI SAO NÊN CHỌN ĐOÀN THỊ ĐIỂM</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./cau-hoi-thuong-gap-faqs.html">
+                                        <a href="./faq.php">
                                             <span>CÂU HỎI THƯỜNG GẶP</span>
                                         </a>
                                     </li>
@@ -96,22 +96,22 @@
                                 <a href="./index.php" title="" class="menu_link">DU HỌC & HỢP TÁC</a>
                                 <ul class="dropdown-content">
                                     <li>
-                                        <a href="./olympia-global-fellowship.php">
+                                        <a href="./category/goc-nhin-chuyen-gia.php">
                                             <span>HỢP TÁC QUỐC TẾ</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="./junior-philosophy-olympiad.php">
+                                        <a href="./thong-tin-du-hoc.php">
                                             <span>THÔNG TIN DU HỌC</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="http://vdlc.theolympiaschools.edu.vn/" target="_blank">
+                                        <a href="./category/goc-nhin-chuyen-gia.php">
                                             <span>THI TÀI NĂNG QUỐC TẾ</span>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="oidsc.theolympiaschools.edu.php" target="_blank">
+                                        <a href="./category/goc-nhin-chuyen-gia.php" target="_blank">
                                             <span>HOẠT ĐỘNG KHỐI SONG NGỮ</span>
                                         </a>
                                     </li>
@@ -270,14 +270,14 @@
                                     <div class="mb-menu-sub">
                                         <div class="mb-menu-body">
                                             <ul class="mb-menu-sub-list">
-                                                <li class="mb-sub-item"><a href="lien-he.php" title=""
+                                                <li class="mb-sub-item"><a href="tuyen-dung.php" title=""
                                                         class="mb-sub-link">THÔNG BÁO TUYỂN SINH</a></li>
                                                 <li class="mb-sub-item"><a
                                                         href="storage/bieu-phi-va-chinh-sach-phi-2026-2027-final.pdf"
                                                         title="" class="mb-sub-link">HÀNH TRANG TỰU TRƯỜNG</a></li>
-                                                <li class="mb-sub-item"><a href="nhaphoc.php" title=""
+                                                <li class="mb-sub-item"><a href="tieu-bieu.php" title=""
                                                         class="mb-sub-link">TẠI SAO NÊN CHỌN ĐOÀN THỊ ĐIỂM</a></li>
-                                                <li class="mb-sub-item"><a href="cau-hoi-thuong-gap-faqs.html" title=""
+                                                <li class="mb-sub-item"><a href="faq.php" title=""
                                                         class="mb-sub-link">CÂU HỎI THƯỜNG GẶP</a></li>
                                             </ul>
 
@@ -292,13 +292,13 @@
                                     <div class="mb-menu-sub">
                                         <div class="mb-menu-body">
                                             <ul class="mb-menu-sub-list">
-                                                <li class="mb-sub-item"><a href="olympia-global-fellowship.php"
+                                                <li class="mb-sub-item"><a href="category/goc-nhin-chuyen-gia.php"
                                                         title="" class="mb-sub-link">HỢP TÁC QUỐC TẾ</a></li>
-                                                <li class="mb-sub-item"><a href="junior-philosophy-olympiad.php"
+                                                <li class="mb-sub-item"><a href="thong-tin-du-hoc.php"
                                                         title="" class="mb-sub-link">THÔNG TIN DU HỌC</a></li>
-                                                <li class="mb-sub-item"><a href="http://vdlc.theolympiaschools.edu.vn/"
+                                                <li class="mb-sub-item"><a href="category/goc-nhin-chuyen-gia.php"
                                                         title="" class="mb-sub-link">THI TÀI NĂNG QUỐC TẾ</a></li>
-                                                <li class="mb-sub-item"><a href="oidsc.theolympiaschools.edu.php"
+                                                <li class="mb-sub-item"><a href="category/goc-nhin-chuyen-gia.php"
                                                         title="" class="mb-sub-link">HOẠT ĐỘNG KHỐI SONG NGỮ</a></li>
                                             </ul>
 
