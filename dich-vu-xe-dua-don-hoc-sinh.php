@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
 <head>
     <meta charset="utf-8">
@@ -11,16 +12,20 @@
 
     <link rel="shortcut icon" href="storage/favicon.png">
 
-    <title>Báo cáo thường niên năm 2025 của Olympia</title>
+    <title>Dịch vụ xe đưa đón Học sinh</title>
+    <meta name="description"
+        content="Dịch vụ đưa đón học sinh của trường Olympia phủ khắp Hà Nội với 50 tuyến xe buýt, được mở rộng tới các huyện ngoại thành như Ecopark, Pháp Vân, Bình Đà, Vinhome Long Biên, Âu Cơ, Lạc Long Quân, An Dương Vương, Splendora, Cổ Nhuế, Gamuda, Yên Thường Gia Lâm.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:site_name" content="The Olympia Schools">
-    <meta property="og:image" content="storage/olympia-schools-1.jpg">
-    <meta property="og:description" content="">
-    <meta property="og:url" content="bao-cao-thuong-nien-nam-2025-cua-truong-olympia.html">
-    <meta property="og:title" content="Báo cáo thường niên năm 2025 của Olympia">
+    <meta property="og:image" content="storage/img-2302.jpg">
+    <meta property="og:description"
+        content="Dịch vụ đưa đón học sinh của trường Olympia phủ khắp Hà Nội với 50 tuyến xe buýt, được mở rộng tới các huyện ngoại thành như Ecopark, Pháp Vân, Bình Đà, Vinhome Long Biên, Âu Cơ, Lạc Long Quân, An Dương Vương, Splendora, Cổ Nhuế, Gamuda, Yên Thường Gia Lâm.">
+    <meta property="og:url" content="dich-vu-xe-dua-don-hoc-sinh.html">
+    <meta property="og:title" content="Dịch vụ xe đưa đón Học sinh">
     <meta property="og:type" content="article">
-    <meta name="twitter:title" content="Báo cáo thường niên năm 2025 của Olympia">
-    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="Dịch vụ xe đưa đón Học sinh">
+    <meta name="twitter:description"
+        content="Dịch vụ đưa đón học sinh của trường Olympia phủ khắp Hà Nội với 50 tuyến xe buýt, được mở rộng tới các huyện ngoại thành như Ecopark, Pháp Vân, Bình Đà, Vinhome Long Biên, Âu Cơ, Lạc Long Quân, An Dương Vương, Splendora, Cổ Nhuế, Gamuda, Yên Thường Gia Lâm.">
 
     <link media="all" type="text/css" rel="stylesheet"
         href="vendor/core/plugins/language/css/language-publice209.css?v=1.0.0">
@@ -29,8 +34,8 @@
 
 
 
-    <link rel="alternate" href="en/bao-cao-thuong-nien-nam-2025-cua-truong-olympia.html" hreflang="en" />
-    <link rel="alternate" href="bao-cao-thuong-nien-nam-2025-cua-truong-olympia.html" hreflang="vi" />
+    <link rel="alternate" href="en/student-transportation-service.html" hreflang="en" />
+    <link rel="alternate" href="dich-vu-xe-dua-don-hoc-sinh.html" hreflang="vi" />
 
 
     <link href="../unpkg.com/aos%402.3.1/dist/aos.css" rel="stylesheet">
@@ -167,16 +172,16 @@
                         <div id="text-header">
                             <ol class="breadcrumb container">
                                 <li class="breadcrumb-item white"><a href="index.html" class="white">Trang chủ</a></li>
-                                <li class="breadcrumb-item white"><a href="category/tat-ca.html" class="white">Tất
-                                        cả</a></li>
-                                <li class="breadcrumb-item white"><a href="javascript:;" class="white">Báo cáo thường
-                                        niên năm 2025 của Olympia</a></li>
+                                <li class="breadcrumb-item white"><a href="category/cuoc-song-hoc-duong.html"
+                                        class="white">Cuộc sống học đường</a></li>
+                                <li class="breadcrumb-item white"><a href="javascript:;" class="white">Dịch vụ xe đưa
+                                        đón Học sinh</a></li>
                             </ol>
 
 
-                            <h1 class="detail__header-title container font-garamond-bold white header-title">Báo cáo
-                                thường niên năm 2025 của Olympia</h1>
-                            <p class="detail-date">23 Tháng 12, 2025</p>
+                            <h1 class="detail__header-title container font-garamond-bold white header-title">Dịch vụ xe
+                                đưa đón Học sinh</h1>
+                            <p class="detail-date">19 Tháng 9, 2021</p>
                         </div>
                     </div>
                 </div>
@@ -185,29 +190,51 @@
                 <div class="container">
                     <div class="detail-inner">
                         <div class="detail-content">
-                            <p>Thực hiện Th&ocirc;ng tư 09/2024/TT-BGDĐT ng&agrave;y 03 th&aacute;ng 06 năm 2024 của Bộ
-                                trưởng Bộ Gi&aacute;o dục v&agrave; Đ&agrave;o tạo, Olympia c&ocirc;ng khai th&ocirc;ng
-                                tin B&aacute;o c&aacute;o thường ni&ecirc;n năm 2025 của trường.</p>
-                            <p>B&aacute;o c&aacute;o của trường Tiểu học &amp; THCS Olympia, xem <a
-                                    href="https://theolympiaschoolseduvn0.sharepoint.com/:b:/s/OlympiaPBL/IQBqgU0UvcjIS5jsnO1HsZSnAZMDRxgF8B1CuOK1jiblnMY?e=zx3c8g">tại
-                                    đ&acirc;y</a>.</p>
-                            <p><!--StartFragment--><span
-                                    style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">B&aacute;o
-                                    c&aacute;o của trường THPT Olympia, xem <a
-                                        href="https://theolympiaschoolseduvn0.sharepoint.com/:b:/s/OlympiaPBL/IQACghrm8BbaT4T-tvGg0iyDAaCwVfLFXVXtFgHONl9IICI?e=sNJx9I">tại
-                                        đ&acirc;y</a>.</span><!--EndFragment--></p>
-                            <p><span
-                                    style="color: #000000; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><img
-                                        style="display: block; margin-left: auto; margin-right: auto;"
-                                        src="storage/olympia-schools-1.jpg" alt="" width="700" height="466" /></span>
+                            <p style="text-align: center;">
+                            <div class="embed-responsive embed-responsive-16by9 mb30">
+                                <iframe class="embed-responsive-item" allowfullscreen frameborder="0" height="315"
+                                    width="420" src="https://www.youtube.com/embed/XAq1LzCLlRE"></iframe>
+                            </div>
                             </p>
-                            <p>&nbsp;</p>
+                            <p><!--StartFragment--><span
+                                    style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 16px; vertical-align: baseline; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: #000000; background-color: transparent;">Dịch
+                                    vụ đưa đ&oacute;n học sinh của trường Olympia phủ khắp H&agrave; Nội với 50 tuyến xe
+                                    bu&yacute;t, được mở rộng tới c&aacute;c huyện ngoại th&agrave;nh như Ecopark,
+                                    Ph&aacute;p V&acirc;n, B&igrave;nh Đ&agrave;, Vinhome Long Bi&ecirc;n, &Acirc;u Cơ,
+                                    Lạc Long Qu&acirc;n, An Dương Vương, Splendora, Cổ Nhuế, Gamuda, Y&ecirc;n Thường
+                                    Gia L&acirc;m.&nbsp;</span><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span
+                                    style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 16px; vertical-align: baseline; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: #000000; background-color: transparent;">Nh&agrave;
+                                    trường đặc biệt ch&uacute; trọng c&aacute;c hoạt động đ&agrave;o tạo gi&aacute;m
+                                    s&aacute;t vi&ecirc;n v&agrave; nh&acirc;n vi&ecirc;n l&aacute;i xe để đảm bảo chất
+                                    lượng dịch vụ. Gi&aacute;m s&aacute;t vi&ecirc;n li&ecirc;n lạc chặt chẽ với Phụ
+                                    huynh h&agrave;ng ng&agrave;y, đảm bảo an to&agrave;n trong đ&oacute;n &ndash; trả
+                                    học sinh. Khi v&agrave;o v&agrave; ra khỏi cổng trường, 100% học sinh được điểm danh
+                                    bằng thiết bị nhận diện gương mặt hiện đại. Kết quả điểm danh được th&ocirc;ng
+                                    b&aacute;o tới phụ huynh th&ocirc;ng qua hệ thống li&ecirc;n lạc
+                                    Schoolonline.</span><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><img
+                                    src="storage/fg.jpg" alt="" width="1200" height="1705" /><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span
+                                    style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 16px; vertical-align: baseline; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: #000000; background-color: transparent;">Thời
+                                    gian đ&oacute;n trả trung b&igrave;nh dao động từ 6:30 tới 17:30. Trường PTLC
+                                    Olympia lựa chọn những cơ sở cung cấp dịch vụ xe uy t&iacute;n, chất lượng tại
+                                    H&agrave; Nội với nhiều nh&agrave; cung cấp dịch vụ đ&atilde; l&agrave;m việc
+                                    xuy&ecirc;n suốt 12 năm.&nbsp;</span><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><span
+                                    style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-size: 16px; vertical-align: baseline; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: #000000; background-color: transparent;">Loại
+                                    xe được trường PTLC Olympia sử dụng l&agrave; d&ograve;ng xe 16 chỗ Ford Transit,
+                                    được sản xuất từ năm 2016 trở lại.&nbsp;</span><br
+                                    style="box-sizing: border-box; line-height: 35px; display: block; color: #212121; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" /><!--EndFragment-->
+                            </p>
                             <div class="flex-center-start mgb-20">
                                 <span style="margin-right: 20px">Share:</span>
                                 <div class="sharethis-inline-share-buttons"></div>
                             </div>
                             <div style="margin-top: 20px" class="fb-comments"
-                                data-href="https://theolympiaschools.edu.vn/bao-cao-thuong-nien-nam-2025-cua-truong-olympia"
+                                data-href="https://theolympiaschools.edu.vn/dich-vu-xe-dua-don-hoc-sinh"
                                 data-width="100%" data-numposts="5"></div>
                             <section>
                                 <div class="article-related">
@@ -221,26 +248,22 @@
                                         </p>
                                         <p class="art-item">
                                             <a
-                                                href="leap-week-2025-tuan-dinh-huong-nghe-nghiep-danh-cho-olympians-chuong-trinh-tich-hop.html">LEAP
-                                                WEEK 2025 – Tuần định hướng nghề nghiệp dành cho Olympians Chương trình
-                                                Tích hợp
+                                                href="hom-nay-con-hoc-them-cach-lang-nghe-tam-hon-va-them-chut-yeu-thuong.html">Hôm
+                                                nay, con học thêm cách lắng nghe tâm hồn và thêm chút yêu thương
                                                 <img src="olympia/images/button-1-2.svg" alt="">
                                             </a>
                                         </p>
                                         <p class="art-item">
-                                            <a href="ngay-hoi-trai-nghiem-giai-ma-hanh-trinh-truong-thanh.html">Ngày hội
-                                                trải nghiệm | Giải mã hành trình trưởng thành
+                                            <a
+                                                href="khoa-dao-tao-ky-nang-lanh-dao-danh-cho-hoi-hoc-sinh-olympia-lien-cap-truong-thanh-cung-trach-nhiem-va-trai-tim.html">Khóa
+                                                đào tạo kỹ năng lãnh đạo dành cho hội học sinh Olympia liên cấp – Trưởng
+                                                thành cùng trách nhiệm và trái tim
                                                 <img src="olympia/images/button-1-2.svg" alt="">
                                             </a>
                                         </p>
                                     </div>
                                 </div>
                             </section>
-                            <div class="detail-tag">
-                                <a href="tag/3-cong-khai.html" title="3 công khai" class="tag-item">3 công khai</a>
-                                <a href="tag/bao-cao-thuong-nien.html" title="báo cáo thường niên" class="tag-item">báo
-                                    cáo thường niên</a>
-                            </div>
                         </div>
                         <div class="sidebar-right event-sidebar-right">
 
@@ -386,6 +409,7 @@
             </div>
         </section>
     </main>
+
 
     <?php include './includes/footer.php'; ?>
     <section id="callnow" class="hotline mobile__none">
