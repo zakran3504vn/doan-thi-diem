@@ -157,7 +157,7 @@
                         <li class="breadcrumb-item color-ab"><a href="index.html" class="color-ab text-uppercase font-avenir-demibold">Trang chủ</a></li>
                         <li class="breadcrumb-item color-ab"><a href="#" class="color-ab white text-uppercase font-avenir-demibold">liên hệ</a></li>
                     </ol>
-                    <h1 class="contact-title">Liên hệ <br> chúng tôi</h1>
+                    <h1 class="contact-title">Liên hệ với chúng tôi</h1>
                 </div>
                 <div class="contact-body">
                     <div class="contact-form">
@@ -212,17 +212,7 @@
                             </div>
 
 
-                            <div class="capcha-section">
-                                <img src="captcha/flat2e01.png?YdXB2qJp">
-                                <a href="javascript:;" class="btn-reload-capcha"><i class="fa fa-refresh" aria-hidden="true"></i></a>
-                            </div>
-
-
                             
-                            <div class="form-group">
-                                <label for="name" class="contact-label text-uppercase">Nhập đoạn lại đoạn mã bên trên</label>
-                                <input type="text" name="captcha" id="captcha" class="contact-input input-captcha">
-                            </div>
                            
 
 
@@ -249,7 +239,7 @@
                            
                             <a href="storage/pdf/brochure-olympia-tanh.pdf" download="" class="item-title download_multiple_file" style="cursor:pointer;">
                                 <button class="btn btn-document bg-f8f0ff color-471873">
-                                    Tải về tài liệu Olympia
+                                    Tải về tài liệu Đoàn Thị Điểm
                                     <img src="olympia/images/button-1-2.svg" alt="">
                                 </button>
                             </a>
@@ -266,13 +256,13 @@
                                 <li class="contact-item">
                                     <p class="contact-item-title text-uppercase">Email</p>
                                     <p class="contact-item-value contact-item-value-title">Tuyển sinh:</p>
-                                    <p class="contact-item-value contact-item-value-email">tuyensinh@theolympiaschools.edu.vn</p>
+                                    <p class="contact-item-value contact-item-value-email">tuyensinh@doanthidiem.edu.vn</p>
                                     <p class="contact-item-value contact-item-value-title">Liên hệ làm việc, đối tác:</p>
-                                    <p class="contact-item-value contact-item-value-email">info@theolympiaschools.edu.vn</p>
+                                    <p class="contact-item-value contact-item-value-email">info@doanthidiem.edu.vn</p>
                                 </li>
                                 <li class="contact-item">
                                     <p class="contact-item-title text-uppercase">Địa chỉ</p>
-                                    <p class="contact-item-value">Khu đô thị mới Trung Văn, Nam Từ Liêm, Hà Nội</p>
+                                    <p class="contact-item-value">Khu đô thị ABC, Phường XYZ, Hà Nội</p>
                                 </li>
                             </ul>
                         </div>
@@ -292,9 +282,7 @@
             </div>
         </div>
         <div class="contact-map">
-            <a href="https://goo.gl/maps/t4syVEQibfZnmbgRA" target="_blank">
-                <img class="contact-map-img" src="olympia/images/pc-11-map.png" alt="">
-            </a>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.438051721944!2d105.7992801759767!3d21.01515148824447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab001745cb03%3A0x5512842ae90b2dd7!2zVHLGsOG7nW5nIFRow6BuaCBXZWI!5e0!3m2!1svi!2s!4v1768911025495!5m2!1svi!2s" width="100%" height="750" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </section>
     <!-- Modal -->

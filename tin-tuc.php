@@ -193,17 +193,17 @@
                 </ul>
 
 
-                <div class="list-event-content tab-content-img tabcontent" style="display: block">
+                <div class="list-event-content tab-content-img tabcontent" style="display: block; margin-left:20px;">
                     <div class="event-item-box tab-content">
                         <div class="tab-content-item">
                             <div class="item-img">
-                                <a href="bao-cao-thuong-nien-nam-2025-cua-truong-olympia.html" title="">
+                                <a href="./doc-tin-tuc.php" title="">
                                     <img src="storage/olympia-schools-1-300x300.jpg" alt="">
                                 </a>
                             </div>
                             <div class="description-box">
                                 <p class="article-time color-471873 font-avenir-demibold size-16"></p>
-                                <a href="bao-cao-thuong-nien-nam-2025-cua-truong-olympia.html" title=""
+                                <a href="./doc-tin-tuc.php" title=""
                                     class="article-title color-212121 font-avenir-demibold size-16">
                                     Báo cáo thường niên năm 2025 của Olympia
                                 </a>
