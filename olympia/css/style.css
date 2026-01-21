@@ -4469,7 +4469,7 @@ img.cl-471873 {
 }
 
 .select-box .option-container {
-    background: #6f3d9e;
+    background: #ffffff;
     color: #a38bb9;
     width: 100%;
     transition: all 0.4s;
@@ -4535,7 +4535,7 @@ img.cl-471873 {
 }
 
 .select-box .option:hover {
-    color: #fff;
+    color: #e79090;
 }
 
 .select-box .option .radio {
@@ -4548,7 +4548,7 @@ img.cl-471873 {
 }
 
 .select-box.normal .option:hover {
-    color: #212121;
+    color: #000000;
 }
 
 .select-box.normal .option-container {
@@ -8143,12 +8143,12 @@ select.select-day option {
     }
 
     .container {
-        max-width: 1260px;
+        max-width: 1860px;
         margin: 0 auto;
     }
 
     .container-fluid {
-        max-width: 1260px;
+        max-width: 1860px;
     }
 }
 
@@ -13834,7 +13834,7 @@ select.select-day option {
 
     /*---------LIST EVENT PAGE -------*/
     .list-event-content .item-img {
-        height: 200px;
+        height: 300px;
     }
 
     .list-event .list-event-title {
@@ -13928,7 +13928,7 @@ select.select-day option {
     }
 
     .list-event .list-event-content {
-        max-width: 905px;
+        max-width: 1805px;
         margin-top: 25px;
     }
 
@@ -14351,9 +14351,10 @@ select.select-day option {
 
 /*---------LIST EVENT PAGE -------*/
 .list-event-content .item-img {
-    max-width: 254px;
-    max-height: 200px;
+    max-width: 500px;
+    max-height: 300px;
     overflow: hidden;
+    border-radius: 25px;
 }
 
 .list-event-content .item-img img {
@@ -14376,7 +14377,7 @@ select.select-day option {
 .list-event-content .event-pagination ul {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: center;
 }
 
 .list-event-content .event-pagination ul li {
@@ -20592,6 +20593,7 @@ html {
 
 .contact-form {
     background: #2354A0;
+    border-radius: 20px;
 }
 
 .contact-form-title {
