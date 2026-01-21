@@ -248,21 +248,30 @@
                             <ul class="contact-list">
                                 <li class="contact-item">
                                     <p class="contact-item-title text-uppercase">Hotline</p>
-                                    <p class="contact-item-value">
-                                        <a href="tel:+84934525889" class="contact-phone-number">093 4525 889</a> (Tuyển sinh)</p>
-                                    <p class="contact-item-value">
-                                        <a href="tel:+842462677999" class="contact-phone-number">024 6267 7999</a> (Liên hệ làm việc, đối tác)</p>
+                                    <p class="contact-item-value">Văn phòng THCS cơ sở 1: <a href="tel:+842462872448" class="contact-phone-number">0246.2872.448</a> – <a href="tel:+842466744699" class="contact-phone-number">0246.6744.699</a></p>
+                                    <p class="contact-item-value">Văn phòng THCS cơ sở 2: <a href="tel:+842462652709" class="contact-phone-number">0246.265.2709</a></p>
+                                    <p class="contact-item-value">Văn phòng THPT: <a href="tel:+842466752216" class="contact-phone-number">0246.675.2216</a></p>
+                                    <p class="contact-item-value">Văn phòng đoàn đội: <a href="tel:+842462872441" class="contact-phone-number">0246.287.2441</a></p>
+                                    <p class="contact-item-value">Giám thị: <a href="tel:+842462962698" class="contact-phone-number">0246.296.2698</a></p>
+                                    <p class="contact-item-value">Kế toán cơ sở 1: <a href="tel:+842422189450" class="contact-phone-number">0242.218.9450</a> - <a href="tel:+842422189445" class="contact-phone-number">0242.218.9445</a></p>
+                                    <p class="contact-item-value">Kế toán cơ sở 2: <a href="tel:+842462910750" class="contact-phone-number">0246.291.0750</a> - <a href="tel:+842462652760" class="contact-phone-number">0246.265.2760</a></p>
+                                    <p class="contact-item-value">Phòng y tế: <a href="tel:+842462968798" class="contact-phone-number">0246.296.8798</a></p>
+                                    <p class="contact-item-value">Phòng bếp: <a href="tel:+842462953255" class="contact-phone-number">0246.295.3255</a></p>
                                 </li>
                                 <li class="contact-item">
                                     <p class="contact-item-title text-uppercase">Email</p>
-                                    <p class="contact-item-value contact-item-value-title">Tuyển sinh:</p>
-                                    <p class="contact-item-value contact-item-value-email">tuyensinh@doanthidiem.edu.vn</p>
-                                    <p class="contact-item-value contact-item-value-title">Liên hệ làm việc, đối tác:</p>
-                                    <p class="contact-item-value contact-item-value-email">info@doanthidiem.edu.vn</p>
+                                    <p class="contact-item-value contact-item-value-title">Hòm thư góp ý của phụ huynh với nhà trường:</p>
+                                    <p class="contact-item-value contact-item-value-email">ykphdoanthidiem@gmail.com</p>
+                                    <p class="contact-item-value contact-item-value-title">Liên hệ với ban giám hiệu:</p>
+                                    <p class="contact-item-value contact-item-value-email">bghdoanthidiem@gmail.com</p>
+                                    <p class="contact-item-value contact-item-value-title">Liên hệ, gửi bài góp ý cho ban biên tập website:</p>
+                                    <p class="contact-item-value contact-item-value-email">bbtdoanthidiem@gmail.com</p>
                                 </li>
                                 <li class="contact-item">
                                     <p class="contact-item-title text-uppercase">Địa chỉ</p>
-                                    <p class="contact-item-value">Khu đô thị ABC, Phường XYZ, Hà Nội</p>
+                                    <p class="contact-item-value">Cơ sở 1: Số 64 Lưu Hữu Phước, phường Từ Liêm, TP Hà Nội</p>
+                                    <p class="contact-item-value">Cơ sở 2: Phố Nguyễn Đình Tứ, KĐT Bắc Cổ Nhuế, phường Đông Ngạc, TP Hà Nội</p>
+                                    <p class="contact-item-value">Website: <a href="https://www.thcs-doanthidiem.edu.vn" target="_blank" rel="noopener" class="contact-phone-number">www.thcs-doanthidiem.edu.vn</a></p>
                                 </li>
                             </ul>
                         </div>

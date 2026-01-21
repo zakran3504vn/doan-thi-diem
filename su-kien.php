@@ -370,16 +370,13 @@
             disable: function () {
                 var maxWidth = 767;
                 return window.innerWidth < maxWidth;
-            }
-        });
+        }
+    });
     </script>
     <script src="olympia/js/bootstrap.min.js"></script>
     <script src="olympia/js/jquery.toast.min.js"></script>
     <script src="olympia/js/main.js"></script>
     <script src="vendor/core/plugins/language/js/language-publice209.js?v=1.0.0"></script>
-
-
-
 
 
     <script src="olympia/js/contact.js"></script>

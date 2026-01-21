@@ -20490,18 +20490,18 @@ html {
 
     .contact-body {
         display: grid;
-        margin-top: 70px;
+        margin-top: 40px;
         grid-gap: 0 20px;
         grid-template-columns: 2fr 1fr;
     }
 
     .contact-header {
         position: relative;
-        padding-top: 120px;
+        padding-top: 60px;
     }
 
     .contact-form {
-        margin-bottom: 200px;
+        margin-bottom: 80px;
     }
 
     .contact-info-button .btn-document {
@@ -20679,6 +20679,7 @@ select.input-vendor::-ms-expand {
 .contact-info-social {
     padding-left: 30px;
     padding-top: 40px;
+    padding-bottom: 30px;
 }
 
 .contact-list .contact-item-title {
@@ -20704,7 +20705,7 @@ select.input-vendor::-ms-expand {
 }
 
 .contact-item-value-title {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .contact-item-value.contact-item-value-email {
